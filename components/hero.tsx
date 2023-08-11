@@ -1,5 +1,8 @@
-import VideoThumb from '@/public/images/hero-image-01.jpg'
+import type { StaticImageData } from 'next/image'
+import Image from 'next/image'
+import VideoThumb from '@/public/images/Euro Americano - Logo.png'
 import ModalVideo from '@/components/modal-video'
+
 
 export default function Hero() {
   return (
