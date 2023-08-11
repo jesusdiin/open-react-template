@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Open PRO',
+  title: 'Home - Instituto Euro Americano Juquila',
   description: 'Page description',
 }
 
